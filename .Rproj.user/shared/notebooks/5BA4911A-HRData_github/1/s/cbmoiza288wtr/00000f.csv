@@ -1,0 +1,12 @@
+"0","failures_df <- data.frame("
+"0","  Category = c(""Missed Leavers"", "
+"0","               ""Recognition Program - Failed"", "
+"0","               ""Career Development Program - Failed""),"
+"0","  Cost = round(c("
+"0","    missed_leavers * turnover_cost,"
+"0","    recog_failed * turnover_cost,"
+"0","    career_failed * turnover_cost"
+"0","  ), 0)"
+"0",")"
+"2","Error: object 'missed_leavers' not found
+"

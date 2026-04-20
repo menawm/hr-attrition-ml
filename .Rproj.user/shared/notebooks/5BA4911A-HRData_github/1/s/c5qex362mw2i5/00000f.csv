@@ -1,0 +1,2 @@
+"0","hr$salary <- as.factor(hr$salary)"
+"0","hr$dept <- as.factor(hr$dept)"
