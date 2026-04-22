@@ -2,15 +2,29 @@
 
 Employee attrition is a major but preventable cost driver. Most organizations manage it reactively, leading to lost talent, operational disruption, and inefficient retention spending.
 
-This project introduces a predictive, data-driven approach to attrition management. By using machine learning, it identifies employees at high risk of leaving and enables targeted interventions where they can have the greatest impact.
+This project introduces a predictive, data-driven approach to attrition management. Using machine learning, it identifies employees at high risk of leaving and enables targeted interventions where they can have the greatest impact.
 
-**Key outcomes**
-- **$72M** estimated annual attrition cost without intervention
-- **High-accuracy model** enables precise identification of at-risk employees
-- **$8M-$13M** in potential annual savings through targeted retention programs
-- **300%+ ROI** on intervention strategies
+### Key Outcomes
+- **$72M** estimated annual attrition cost without intervention  
+- **97% model accuracy** enabling precise identification of at-risk employees  
+- **$8M-$13M** in potential annual savings through targeted retention programs  
+- **300%+ ROI** on intervention strategies  
 
-This approach shifts attrition from an unavoidable cost into a controllable, high-impact business lever.
+### Key Insight
+Attrition is driven primarily by **employee experience factors**—engagement, workload, and career growth—not compensation alone.  
+
+- **Satisfaction** is the strongest predictor of attrition  
+- **High workload** and long hours significantly increase risk  
+- **Limited promotion opportunities** and lower salary bands contribute to elevated risk  
+
+### Business Implication
+Retention cannot be solved through compensation adjustments alone. The highest-impact strategies focus on:
+
+- Improving employee engagement and satisfaction  
+- Reducing excessive workload and burnout  
+- Creating clear and achievable career progression pathways  
+
+By aligning interventions to these drivers, organizations can move from reactive retention efforts to a scalable, high-impact strategy.
 
 
 ## Business Problem
