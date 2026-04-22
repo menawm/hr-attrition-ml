@@ -55,8 +55,6 @@ At a high level, the organization consists of approximately **15,000 employees**
 
 Each departure carries an estimated cost of **$20,000**, capturing recruiting, onboarding, and lost productivity during ramp-up.
 
-**Why this matters**
-
 These assumptions establish the foundation for the financial analysis. When aggregated, they reveal that attrition is not a marginal issue, but a **$72M annual cost driver**.
 
 By quantifying attrition in financial terms, we can move beyond intuition and evaluate retention strategies based on measurable business impact.
@@ -66,8 +64,6 @@ By quantifying attrition in financial terms, we can move beyond intuition and ev
 - Attrition volume drives scale of impact  
 - Cost per employee drives financial sensitivity  
 - Small improvements in retention translate into **multi-million dollar savings**  
-
-**Key takeaway**
 
 This framework allows leadership to treat attrition as a **controllable financial lever**, not just an HR metric.
 
@@ -132,21 +128,16 @@ A few patterns stand out clearly:
 - **Time spent at the company** and **high monthly hours** significantly increase likelihood of leaving  
 - **Lack of promotion** and **lower salary bands** further contribute to elevated risk  
 
-**Why this matters**
 
 Attrition is driven primarily by **employee experience factors** — engagement, workload, and growth — rather than compensation alone.
 
 While salary influences decisions, it is not the dominant lever. Employees are far more likely to leave when they feel overworked, undervalued, or stagnant in their roles.
 
-**What this means for the business**
-
-Retention cannot be solved through compensation adjustments alone. The highest-impact strategies are those that:
+**What this means for the business**: Retention cannot be solved through compensation adjustments alone. The highest-impact strategies are those that:
 
 - Improve employee satisfaction and engagement  
 - Reduce excessive workload and burnout  
 - Create clear and achievable career progression paths  
-
-**Key takeaway**
 
 Addressing these root drivers enables more effective and scalable retention strategies, ensuring interventions target the underlying causes of attrition rather than surface-level symptoms.
 
