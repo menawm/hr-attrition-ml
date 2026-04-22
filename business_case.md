@@ -48,7 +48,10 @@ Rather than applying retention strategies uniformly, the organization can focus 
 This targeted approach improves efficiency by:
 - Reducing unnecessary spending on low-risk employees  
 - Prioritizing interventions where they are most likely to succeed  
-- Enabling differentiated strategies based on employee needs  
+- Enabling differentiated strategies based on employee needs
+
+### Business Assumptions
+![Business Assumptions](assets/business%20assumptions.png)
 
 ### 3. Quantify Impact
 
@@ -94,6 +97,8 @@ This level of performance enables a shift from broad, reactive retention efforts
 
 Beyond prediction, the analysis provides critical insight into *why* employees leave. Understanding these drivers is essential for designing effective and scalable retention strategies.
 
+![Key Drivers (Odds Ratio)](assets/lr%20odds%20ratio.png)
+
 The data consistently highlights a concentrated set of factors influencing attrition:
 
 **Primary drivers**
@@ -123,6 +128,8 @@ By aligning interventions to these drivers, organizations can address the root c
 ## Financial Impact of Attrition
 
 Attrition represents a significant and measurable financial burden. By applying standard cost assumptions to the dataset, the full scale of this impact becomes clear.
+
+![Total Cost Comparison](assets/program%20costs%20vs%20baseline.png)
 
 **Baseline assumptions**
 - **Total employees:** 14,999  
@@ -155,6 +162,12 @@ By combining predictive targeting with effective interventions, organizations ca
 ## Retention Strategy Analysis
 
 To translate predictive insights into measurable business value, two targeted retention strategies were evaluated. Each strategy was assessed across three dimensions: cost, effectiveness, and financial return. The goal is not simply to reduce attrition, but to do so in a way that maximizes return on investment and aligns with organizational priorities.
+
+### Net Financial Impact by Initiative
+![Net Financial Impact](assets/net%20fianical%20impact%20by%20program.png)
+
+### Return on Investment (ROI)
+![ROI by Program](assets/roi%20bu%20program.png)
 
 ### Recognition Program
 
@@ -217,6 +230,9 @@ Attrition reduction strategies deliver meaningful financial impact at scale. Eve
 ## Residual Risk & Limitations
 
 While predictive targeting and structured interventions significantly reduce attrition-related costs, they do not eliminate them entirely. Understanding the remaining sources of cost is critical for refining strategy and setting realistic expectations.
+
+### Breakdown of Remaining Attrition Costs
+![Remaining Attrition Costs](assets/remaining%20attrition%20costs.png)
 
 ### 1. Missed Attrition (Model Limitations)
 
