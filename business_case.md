@@ -43,33 +43,56 @@ This allows the organization to move beyond intuition and identify risk at an in
 
 ### 2. Target Interventions
 
-Rather than applying retention strategies uniformly, the organization can focus resources on employees who are both at high risk and valuable to retain.
+## Business Assumptions
 
-This targeted approach improves efficiency by:
-- Reducing unnecessary spending on low-risk employees  
-- Prioritizing interventions where they are most likely to succeed  
-- Enabling differentiated strategies based on employee needs
+<p align="center">
+  <img src="assets/business%20assumptions.png" width="600"/>
+</p>
 
-### Business Assumptions
-![Business Assumptions](assets/business%20assumptions.png)
+This model is grounded in a set of baseline assumptions that translate employee behavior into financial impact.
+
+At a high level, the organization consists of approximately **15,000 employees**, with an annual attrition rate of **24%**, resulting in roughly **3,600 employees leaving each year**.
+
+Each departure carries an estimated cost of **$20,000**, capturing recruiting, onboarding, and lost productivity during ramp-up.
+
+**Why this matters**
+
+These assumptions establish the foundation for the financial analysis. When aggregated, they reveal that attrition is not a marginal issue, but a **$72M annual cost driver**.
+
+By quantifying attrition in financial terms, we can move beyond intuition and evaluate retention strategies based on measurable business impact.
+
+**How to interpret this**
+
+- Attrition volume drives scale of impact  
+- Cost per employee drives financial sensitivity  
+- Small improvements in retention translate into **multi-million dollar savings**  
+
+**Key takeaway**
+
+This framework allows leadership to treat attrition as a **controllable financial lever**, not just an HR metric.
 
 ### 3. Quantify Impact
 
-To ensure decisions are grounded in business value, the model is paired with a financial framework that evaluates retention strategies based on cost and expected return.
+To ensure decisions are grounded in business value, predictive outputs are paired with a financial framework that translates attrition risk into measurable impact.
 
-Each intervention is assessed in terms of:
-- Number of employees retained  
-- Total cost of implementation  
-- Savings generated from avoided attrition  
-- Overall return on investment  
+Each retention strategy is evaluated based on:
+- Employees retained  
+- Cost of implementation  
+- Savings from avoided attrition  
+- Return on investment (ROI)  
 
-This provides leadership with a clear, data-backed view of which strategies deliver the greatest impact.
+This allows leadership to move beyond intuition and compare strategies based on **clear financial outcomes**, not assumptions.
 
 ---
 
-By combining predictive insights with financial evaluation, this solution creates a scalable system for managing attrition. It enables organizations to anticipate risk, act with precision, and measure outcomes in business terms.
+By integrating predictive insights with financial evaluation, this approach turns attrition into a **measurable and manageable business problem**.
 
-The result is a more efficient allocation of resources, improved retention of high-value employees, and a meaningful reduction in overall attrition costs.
+Instead of reacting after employees leave, the organization can:
+- Identify risk early  
+- Target interventions where they will have the highest impact  
+- Allocate resources with precision  
+
+The result is a more efficient use of capital, stronger retention of high-value employees, and a meaningful reduction in overall attrition costs.
 
 
 ## Model Performance
@@ -95,18 +118,37 @@ This level of performance enables a shift from broad, reactive retention efforts
 
 ## Key Drivers of Attrition
 
-Beyond prediction, the analysis provides critical insight into *why* employees leave. Understanding these drivers is essential for designing effective and scalable retention strategies.
+Beyond prediction, the analysis identifies the factors most strongly associated with employee attrition.
 
-![Key Drivers (Odds Ratio)](assets/lr%20odds%20ratio.png)
+<p align="center">
+  <img src="assets/lr%20odds%20ratio.png" width="650"/>
+</p>
 
-The data consistently highlights a concentrated set of factors influencing attrition:
+This chart highlights the relative impact of each variable on attrition risk.
 
-**Primary drivers**
-- **Low satisfaction levels** — the strongest and most consistent predictor  
-- **High workload and extended working hours**  
-- **Lack of promotion or career progression opportunities**  
-- **Long tenure without advancement or role evolution**  
-- **Lower salary bands relative to peers**
+A few patterns stand out clearly:
+
+- **Satisfaction level** has the strongest inverse relationship with attrition, making it the most critical driver  
+- **Time spent at the company** and **high monthly hours** significantly increase likelihood of leaving  
+- **Lack of promotion** and **lower salary bands** further contribute to elevated risk  
+
+**Why this matters**
+
+Attrition is driven primarily by **employee experience factors** — engagement, workload, and growth — rather than compensation alone.
+
+While salary influences decisions, it is not the dominant lever. Employees are far more likely to leave when they feel overworked, undervalued, or stagnant in their roles.
+
+**What this means for the business**
+
+Retention cannot be solved through compensation adjustments alone. The highest-impact strategies are those that:
+
+- Improve employee satisfaction and engagement  
+- Reduce excessive workload and burnout  
+- Create clear and achievable career progression paths  
+
+**Key takeaway**
+
+Addressing these root drivers enables more effective and scalable retention strategies, ensuring interventions target the underlying causes of attrition rather than surface-level symptoms.
 
 **Business interpretation**
 
@@ -127,58 +169,73 @@ By aligning interventions to these drivers, organizations can address the root c
 
 ## Financial Impact of Attrition
 
-Attrition represents a significant and measurable financial burden. By applying standard cost assumptions to the dataset, the full scale of this impact becomes clear.
+Attrition represents a significant and measurable financial burden across the organization.
 
-![Total Cost Comparison](assets/program%20costs%20vs%20baseline.png)
+<p align="center">
+  <img src="assets/program%20costs%20vs%20baseline.png" width="700"/>
+</p>
 
-**Baseline assumptions**
-- **Total employees:** 14,999  
-- **Attrition rate:** ~24%  
-- **Cost per employee:** $20,000  
+This chart compares total annual cost under three scenarios: no intervention, a recognition program, and a career development program.
 
-**Resulting impact**
-- Approximately **3,600 employees leave annually**  
-- Total annual attrition cost of approximately **$72M**
+Without intervention, attrition drives approximately **$72M in annual cost**. Implementing targeted retention strategies reduces this cost meaningfully, even after accounting for program investment.
 
-These costs extend beyond direct hiring expenses. They include:
-- Recruiting and onboarding costs  
-- Lost productivity during vacancy and ramp-up periods  
-- Disruption to team performance and project timelines  
-- Loss of institutional knowledge and expertise  
+**What stands out**
 
-**Business interpretation**
+- No intervention represents the highest cost baseline  
+- Both retention strategies deliver **net cost reduction**, not additional expense  
+- Career development achieves the largest total cost reduction  
+- Recognition delivers strong savings with lower upfront investment  
 
-Attrition is not a marginal or isolated expense. It is a **material cost driver** that directly impacts profitability and operational efficiency. Because these costs are distributed across functions and time, they are often underestimated or overlooked in traditional reporting.
+**Why this matters**
 
-However, when aggregated, the impact is substantial and recurring.
+Attrition is not just an HR metric. It is a **direct and recurring cost driver**.
+
+Because these costs are distributed across hiring, onboarding, and lost productivity, they are often underestimated. When aggregated, however, they represent a material impact on profitability.
 
 **Key takeaway**
 
-Attrition represents a high-leverage opportunity for cost reduction. Even modest improvements in retention rates can generate **multi-million dollar savings**, making it one of the most impactful areas for strategic investment.
-
-By combining predictive targeting with effective interventions, organizations can materially reduce this cost while strengthening workforce stability and performance.
-
+Even modest improvements in retention translate into **multi-million dollar savings**, making attrition one of the highest-leverage opportunities for cost reduction and operational efficiency.
 
 ## Retention Strategy Analysis
 
-To translate predictive insights into measurable business value, two targeted retention strategies were evaluated. Each strategy was assessed across three dimensions: cost, effectiveness, and financial return. The goal is not simply to reduce attrition, but to do so in a way that maximizes return on investment and aligns with organizational priorities.
+To translate predictive insights into business value, two retention strategies were evaluated based on cost, effectiveness, and financial return.
 
-### Net Financial Impact by Initiative
-![Net Financial Impact](assets/net%20fianical%20impact%20by%20program.png)
+---
+
+### Net Financial Impact
+
+<p align="center">
+  <img src="assets/net%20fianical%20impact%20by%20program.png" width="650"/>
+</p>
+
+The **Career Development Program** delivers the highest total impact (~$13M), while the **Recognition Program** generates ~$8.2M in savings.
+
+---
 
 ### Return on Investment (ROI)
-![ROI by Program](assets/roi%20bu%20program.png)
 
-### Recognition Program
+<p align="center">
+  <img src="assets/roi%20bu%20program.png" width="650"/>
+</p>
 
-- **Cost per employee:** $500  
-- **Estimated retention success rate:** 15%–25%  
-- **Employees retained:** ~495  
-- **Net savings:** ~$8.2M  
-- **ROI:** 476%  
+The **Recognition Program** is more efficient (~476% ROI), while the **Career Development Program** delivers higher absolute value (~380% ROI).
 
-This strategy represents a low-cost, scalable approach focused on improving employee engagement and recognition. It is highly efficient, requiring minimal investment while still delivering strong financial returns.
+---
 
+### What this means
+
+- Recognition = **higher efficiency (ROI)**  
+- Career Development = **higher total impact (savings)**  
+
+---
+
+### Recommendation
+
+Adopt a **tiered approach**:
+- Use recognition programs broadly for cost-efficient impact  
+- Target career development investments toward high-risk employees  
+
+This maximizes both **ROI and total savings**.
 ### Career Development Program
 
 - **Cost per employee:** $1,000  
@@ -229,34 +286,31 @@ Attrition reduction strategies deliver meaningful financial impact at scale. Eve
 
 ## Residual Risk & Limitations
 
-While predictive targeting and structured interventions significantly reduce attrition-related costs, they do not eliminate them entirely. Understanding the remaining sources of cost is critical for refining strategy and setting realistic expectations.
+Even with predictive targeting and retention strategies, a portion of attrition cost remains.
 
-### Breakdown of Remaining Attrition Costs
-![Remaining Attrition Costs](assets/remaining%20attrition%20costs.png)
+### Remaining Attrition Costs
 
-### 1. Missed Attrition (Model Limitations)
+<p align="center">
+  <img src="assets/remaining%20attrition%20costs.png" width="650"/>
+</p>
 
-- Employees who leave but are not identified by the model  
-- ~303 employees  
-- ~$6.0M in residual cost  
+The majority of remaining cost comes from **failed interventions**, not missed predictions.
 
-These cases represent the limitations of predictive modeling. While performance is strong, no model can capture all attrition risk.
+- **Failed interventions:** ~$43M–$49M  
+- **Missed attrition (model limitations):** ~$6M  
 
-### 2. Failed Interventions (Strategy Limitations)
+---
 
-- Employees correctly identified as at-risk but not successfully retained  
+### What this means
 
-Estimated impact:
-- **Recognition Program:** ~$49.5M  
-- **Career Development Program:** ~$42.9M  
+- The model effectively identifies at-risk employees  
+- The primary gap is **intervention effectiveness**, not prediction accuracy  
 
-These costs represent the largest remaining portion of attrition impact. Even when targeting is accurate, interventions do not guarantee retention outcomes.
+---
 
-### Business Interpretation
+### Key takeaway
 
-The primary constraint is no longer prediction accuracy, but **intervention effectiveness**. The model successfully identifies risk, but the ability to influence employee decisions varies based on factors such as role, timing, and individual circumstances.
-
-This shifts the focus from “who to target” to “how to retain.”
+Improving retention outcomes now depends less on better prediction and more on **stronger, more targeted interventions**.
 
 ### 3. Assumptions & Constraints
 
